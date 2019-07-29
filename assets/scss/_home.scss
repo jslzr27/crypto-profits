@@ -14,7 +14,7 @@
     display: block;
     text-transform: uppercase;
     font-weight: 600;
-    color: #544cb9;
+    color: #05acd3;
     margin-bottom: 20px;
   }
 
@@ -30,13 +30,14 @@
   }
 
   button {
-    background: #304ffe;
+    background: #0486db;
     padding: 10px 15px;
     font-size: 1.5rem;
     border: none;
     float: right;
     color: white;
     font-weight: 300;
+    cursor: pointer;
   }
 
   .react-datepicker-wrapper,
